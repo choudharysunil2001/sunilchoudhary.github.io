@@ -1,0 +1,35 @@
+.container {
+    background-image: url(./component/image/social.jpg);
+    height: 620px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box1 {
+    border: 1px solid black;
+    height: 619px;
+    width: 40%;
+    float: left;
+}
+
+.box2 {
+    border: 1px solid black;
+    height: 619px;
+    width: 59.7%;
+    float: left;
+}
+
+.box3 {
+  
+    height: 200px;
+    width: 200px;
+    margin: 190px;
+    border-radius: 50%;
+}
+.box3 img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
