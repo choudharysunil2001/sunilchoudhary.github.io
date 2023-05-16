@@ -1,0 +1,54 @@
+.container {
+    background-image: url(./image/social.jpg);
+    height: 620px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box1 {
+    /* border: 1px solid black; */
+    height: 619px;
+    width: 40%;
+    float: left;
+}
+
+.box2 {
+    /* border: 1px solid black; */
+    height: 619px;
+    width: 59.7%;
+    float: left;
+}
+
+.box3 {
+  
+    height: 200px;
+    width: 200px;
+    margin: 190px;
+    border-radius: 50%;
+}
+.box3 img{
+    height: 179%;
+    width: 365px;
+    border-radius: 11%;
+    margin-top: -26%;
+    padding: -3%;
+    background-color: #9ba0a4;
+    margin-left: -42%;
+    /* background: transparent; */
+    /* background: transparent; */
+}
+.box3 img:hover{
+    background-color: #0c7cd7;
+
+}
+
+h5{
+    font-size: 40px;
+}
+.box2 p{
+float: left;
+height: 63%;
+width: 88%;
+margin-left:98px;
+}
