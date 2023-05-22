@@ -1,0 +1,72 @@
+.main_gallery {
+    border: 1px solid;
+    width: 100%;
+    height: 1000px;
+    background-color: gray;
+}
+.gallery h1{
+    color: yellow;
+    
+}
+.gallery1 {
+    border: 1px solid;
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin-left: 36px;
+    margin-top: 20px;
+    background-color: darkseagreen;
+}
+
+.gallery2 {
+    border: 1px solid;
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin-left: 36px;
+    margin-top: 20px;
+    background-color: darkseagreen;
+
+
+}
+
+.gallery3 {
+    border: 1px solid;
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin-left: 36px;
+    margin-top: 20px;
+    background-color: darkseagreen;
+}
+.gallery4 {
+    border: 1px solid;
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin-left: 36px;
+    margin-top: 20px;
+    background-color: darkseagreen;
+}
+
+.gallery5 {
+    border: 1px solid;
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin-left: 36px;
+    margin-top: 20px;
+    background-color: darkseagreen;
+
+
+}
+
+.gallery6 {
+    border: 1px solid;
+    width: 30%;
+    height: 300px;
+    float: left;
+    margin-left: 36px;
+    margin-top: 20px;
+    background-color: darkseagreen;
+}
